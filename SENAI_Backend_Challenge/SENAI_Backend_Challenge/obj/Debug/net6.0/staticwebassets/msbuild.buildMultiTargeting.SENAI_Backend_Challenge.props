@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SENAI_Backend_Challenge.props" />
+</Project>
